@@ -21,4 +21,4 @@ You need [Rust](https://www.rust-lang.org/) installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/cli-car-game-rust.git](https://github.com/YOUR_USERNAME/cli-car-game-rust.git)
+   git clone [https://github.com/TemirlanVinci/cli-car-game-rust.git](https://github.com/TemirlanVinci/cli-car-game-rust.git)
